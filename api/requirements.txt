@@ -19,6 +19,7 @@ google-pasta==0.2.0       # via tensorflow
 graphql-core==2.3.2       # via flask-graphql, graphql-server-core
 graphql-server-core==1.2.0  # via flask-graphql
 grpcio==1.30.0            # via tensorboard, tensorflow
+gunicorn==20.0.4          # via -r requirements.in
 h5py==2.10.0              # via tensorflow
 idna==2.10                # via requests
 importlib-metadata==1.7.0  # via markdown
