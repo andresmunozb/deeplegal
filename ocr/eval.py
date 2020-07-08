@@ -82,7 +82,7 @@ def evaluate_one(model, data):
     img = load_image(data[0])
     img = preprocess_image(img)
     result = predict_text(model, img)
-    print('Detected result: {}'.format(result))
+    #print('Detected result: {}'.format(result))
     return result
 
 def evaluate_batch(model, data, output_subdir):
