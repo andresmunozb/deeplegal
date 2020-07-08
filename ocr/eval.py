@@ -4,8 +4,8 @@ import string
 from tqdm import tqdm
 import numpy as np
 import cv2
-import keras.backend as K
-from keras.models import model_from_json, load_model
+import tensorflow.keras.backend as K
+from tensorflow.keras.models import model_from_json, load_model
 
 from .utils import pad_image, resize_image, create_result_subdir
 from .models import CRNN, CRNN_STN
