@@ -3,3 +3,4 @@ flask
 flask_graphql
 gunicorn
 graphene
+tqdm
