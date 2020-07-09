@@ -27,6 +27,7 @@ docker-compose up -d
 - Create the query you want to use.
 
 ## Query example
+You can change the link of the image for another one in the internet.
 ```
 {
   predict(link:"https://upload.wikimedia.org/wikipedia/commons/0/0c/600px-Pare_svg.png")
