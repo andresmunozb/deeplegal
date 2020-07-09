@@ -1,6 +1,6 @@
 # API GRAPHQL FOR OPTICAL CHARACTER RECOGNITION
 ## Demo
-See [Live demo](https://http://34.95.183.94/graphql).
+See [Live demo](34.95.183.94).
 
 ## Requirements
 You need to have installed:
@@ -21,11 +21,10 @@ docker-compose up -d
 
 ## Keep in mind
 - The project will run in the port 80.
-- The endpoint for graphql is: /graphql
 
 
 ## Execute an graphql query
-- Enter to localhost/graphql
+- Enter to localhost
 - Create the query you want to use.
 
 ## Query example
