@@ -1,7 +1,7 @@
 import tensorflow as tf
 from tensorflow.keras.layers import Layer
 
-from keras.models import Sequential
+from tensorflow.keras.models import Sequential
 
 class SpatialTransformer(Layer):
     """Spatial Transformer Layer
