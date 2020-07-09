@@ -3,7 +3,7 @@ from graphene import ObjectType, String, Schema
 from .ocr.predictor import Predictor
 import urllib
 
-predictor = Predictor('prediction_model.hdf5')
+predictor = Predictor('api/prediction_model.hdf5')
 
 def predict(link):
     opener=urllib.request.build_opener()
