@@ -1,6 +1,6 @@
 # API GRAPHQL FOR OPTICAL CHARACTER RECOGNITION
 
-##Requirements
+## Requirements
 You need to have installed:
 - Docker 
 - docker-compose.
