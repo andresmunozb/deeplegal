@@ -101,4 +101,4 @@ if __name__ == '__main__':
     data = collect_data()
     #_, model = CRNN_STN(cfg)    
     #model.load_weights(cfg.model_path)
-    e#valuate(model, data, output_subdir)
+    #valuate(model, data, output_subdir)
