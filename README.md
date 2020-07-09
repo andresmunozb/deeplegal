@@ -1,4 +1,6 @@
 # API GRAPHQL FOR OPTICAL CHARACTER RECOGNITION
+## Demo
+See [Live demo](https://http://34.95.183.94/graphql).
 
 ## Requirements
 You need to have installed:
