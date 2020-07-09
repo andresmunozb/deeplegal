@@ -31,8 +31,9 @@ jinja2==2.11.2            # via flask
 keras-preprocessing==1.1.2  # via tensorflow
 markdown==3.2.2           # via tensorboard
 markupsafe==1.1.1         # via jinja2
-numpy==1.19.0             # via h5py, keras-preprocessing, opt-einsum, scipy, tensorboard, tensorflow
+numpy==1.19.0             # via h5py, keras-preprocessing, opencv-python, opt-einsum, scipy, tensorboard, tensorflow
 oauthlib==3.1.0           # via requests-oauthlib
+opencv-python==4.3.0.36   # via -r requirements.in
 opt-einsum==3.2.1         # via tensorflow
 promise==2.3              # via graphql-core, graphql-relay, graphql-server-core
 protobuf==3.12.2          # via tensorboard, tensorflow

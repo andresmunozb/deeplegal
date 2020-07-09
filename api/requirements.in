@@ -4,3 +4,4 @@ flask_graphql
 gunicorn
 graphene
 tqdm
+opencv-python
